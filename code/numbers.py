@@ -12,3 +12,4 @@ The output should be:
 {'odd': [3, 5], 'even': [2, 4, 6]}
 '''
 
+print("hello world")
