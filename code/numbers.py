@@ -12,11 +12,10 @@ The output should be:
 {'odd': [3, 5], 'even': [2, 4, 6]}
 '''
 
-value = int(input())
 int_dict = {'odd': [], 'even': []}
 i = 1
 while i == 1:
-    value = int(input("Input: "))
+    value = int(input(""))
     if value == 0:
         print(int_dict)
         i = 0
