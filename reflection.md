@@ -1,8 +1,8 @@
 # Reflection
-I'm just testing push/pulls, i forgot to do this when I was doing homework
 
-Student Name:  name
-Sudent Email:  email
+
+Student Name:  Henry Dare
+Sudent Email:  hddare@syr.edu
 
 ## Instructions
 
@@ -24,3 +24,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I found this to be a great introductory assignment for this class. I haven't coded in python for a while, so it was nice to get used to the language and syntax again. I didn't find creating the different functions necessarily difficult, rather a nice, simple refresher to sort of get my head back in the game.
